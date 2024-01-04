@@ -1,3 +1,5 @@
+This application is completely finished.
+
 This is a full-stack authentication application built using the MERN stack (MongoDB, Express.js, React, Node.js) with JWT (JSON Web Tokens) for user authentication.
 
 Features : 
